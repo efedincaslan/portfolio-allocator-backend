@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+gunicorn
+pandas
+numpy
+pyarrow   # keep if you might read .parquet; remove if CSV-only
